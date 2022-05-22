@@ -5,3 +5,7 @@ out/
 build
 artifacts
 types/typechain/**
+
+# dependencies
+/node_modules
+/.pnp
