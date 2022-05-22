@@ -1,0 +1,7 @@
+*.tsbuildinfo
+coverage
+.next/
+out/
+build
+artifacts
+types/typechain/**
